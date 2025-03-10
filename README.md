@@ -26,7 +26,7 @@ O **Cobble Video Downloader** é uma aplicação desenvolvida em Python com a bi
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/CobbleVideoDownloader.git
+   git clone https://github.com/LRaposoRocha/Cobble-Video-Downloader.git
    ```
 2. Acesse o diretório do projeto:
    ```bash
